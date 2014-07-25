@@ -2,9 +2,9 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: qgerome
   description: GitLab Git web interface
-  company: "Midwestern Mac, LLC"
+  company: "Alpsquare SA"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.4
   platforms:
